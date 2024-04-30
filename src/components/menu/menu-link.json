@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_menu_menu_links",
+  "info": {
+    "displayName": "menu_link",
+    "icon": "database",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "text",
+      "required": true
+    },
+    "open_in_new_tab": {
+      "type": "boolean",
+      "default": false
+    },
+    "logo_text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
